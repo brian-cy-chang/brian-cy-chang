@@ -7,7 +7,7 @@
 <a href="https://brianchang.netlify.app/">
     <img src="https://img.shields.io/badge/Website-brianchang.app-red?style=flat-square">
 </a>  
-<a href="https://brianchang.netlify.app/uploads/resume.pdf](https://brianchang.netlify.app/uploads/resume.pdf">
+<a href="https://brianchang.netlify.app/uploads/resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/briancychang/">
