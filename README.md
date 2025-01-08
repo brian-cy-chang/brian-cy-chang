@@ -34,6 +34,17 @@
 
 * 💻 Currently building multimodal models to detect vertebral fractures at the patient-level.
 
+<br/> 
+<details>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brian-cy-chang&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brian-cy-chang&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brian-cy-chang&theme=dracula)
+
 <!--
 **brian-cy-chang/brian-cy-chang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
