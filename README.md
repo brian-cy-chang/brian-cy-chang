@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/brian-cy-chang">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Brian+Chang;Researcher+%7C+PhD+Student+%7C+AI+Scientist;Clinical+Informatics+%7C+Predictive+Modeling" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Brian+Chang+MD;Researcher+%7C+PhD+Student+%7C+AI+Scientist;Clinical+Informatics+%7C+Predictive+Modeling" alt="Typing SVG" />
 </a>
 <br/>
 
